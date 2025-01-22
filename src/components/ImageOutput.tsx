@@ -1,4 +1,3 @@
-import React from 'react';
 import { RefreshCw, Download, Camera } from 'lucide-react';
 
 interface ImageOutputProps {
